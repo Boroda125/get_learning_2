@@ -1,6 +1,5 @@
 import traceback
 
-
 class Calcylator:
     last_rez = None
 
